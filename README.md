@@ -2,6 +2,8 @@
 
 Das **WordPress XML Tool** ist eine Windows-Anwendung, um Blogartikel aus WordPress-XML-Sicherungen komfortabel zu durchsuchen, zu filtern, zu bearbeiten und in verschiedene Formate zu exportieren. Das Tool richtet sich an Blogger:innen, die ihre Inhalte aus WordPress-Backups weiterverwenden oder sichern möchten.
 
+<img src="https://github.com/ManfredAabye/WordPress-XML-Tool/blob/main/WordPress-XML-Tool.png" alt="Project Badge" width="400">
+
 ## Features
 
 - **XML-Import:** Lade eine WordPress-XML-Sicherung und zeige alle Blogartikel übersichtlich an.
@@ -59,4 +61,5 @@ Dieses Tool ist Open Source und darf frei verwendet und angepasst werden.
 
 **Hinweis:**
 Dieses Tool ist ein privates Hilfsprogramm und wird ohne Gewähr bereitgestellt. Für Feedback oder Erweiterungswünsche bitte ein Issue eröffnen.
+
 
