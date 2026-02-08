@@ -15,7 +15,7 @@ Das **WordPress XML Tool** ist eine Windows-Anwendung, um Blogartikel aus WordPr
 
 1. **Voraussetzungen:**
    - Windows 10/11
-   - .NET 6.0 oder .NET 8.0 Desktop Runtime (je nach Build)
+   - .NET 8.0 Desktop Runtime (je nach Build)
 2. **Download:**
    - Kompiliere das Projekt mit Visual Studio (Projektdatei: `WordPress_XML_Tool.csproj`)
    - Oder verwende die bereitgestellte `WordPress_XML_Tool.exe` im `bin/Release/net8.0-windows/`-Ordner
@@ -59,3 +59,4 @@ Dieses Tool ist Open Source und darf frei verwendet und angepasst werden.
 
 **Hinweis:**
 Dieses Tool ist ein privates Hilfsprogramm und wird ohne Gewähr bereitgestellt. Für Feedback oder Erweiterungswünsche bitte ein Issue eröffnen.
+
