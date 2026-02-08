@@ -57,9 +57,13 @@ Das **WordPress XML Tool** ist eine Windows-Anwendung, um Blogartikel aus WordPr
 
 Dieses Tool ist Open Source und darf frei verwendet und angepasst werden.
 
+## TODO
+Der Editor funktioniert nicht korrekt und kann zu abstürzen führen.
+
 ---
 
 **Hinweis:**
 Dieses Tool ist ein privates Hilfsprogramm und wird ohne Gewähr bereitgestellt. Für Feedback oder Erweiterungswünsche bitte ein Issue eröffnen.
+
 
 
